@@ -3,10 +3,33 @@
     Adhyaksh Guhan
 </h1>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla felis urna, feugiat vel pulvinar sit amet, aliquet nec justo. Nullam id euismod quam. Curabitur eget tortor ac purus ultricies ultricies. Sed sit amet nunc eget lectus gravida lobortis. Phasellus non euismod enim, sit amet auctor purus. In eu sagittis erat. Duis eu tellus ligula. Proin consectetur nibh vel mi mollis, in mattis mi semper. Sed condimentum interdum elit, id pellentesque nunc molestie eu. Cras eu odio aliquet, sodales lectus sed, tincidunt ante. In consectetur tortor id nisl tempus, in hendrerit mauris hendrerit. Morbi pulvinar, nulla id rutrum dignissim, quam est tincidunt dolor, sed fermentum purus tellus sit amet justo. Sed commodo, dui in volutpat condimentum, est velit pulvinar ex, vel ullamcorper lectus magna quis velit. Nam pharetra risus nec finibus dignissim.
+I'm a Software Engineer. I mostly design backend systems but do a bit of frontend too. My second brain lives in [Obsidian](https://obsidian.md/). 
 
 [![Linkedln](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSource=feather)](https://www.linkedin.com/in/adhyaksh-guhan-40090a171/)
 [![Gmail Badge](https://custom-icon-badges.demolab.com/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&logoSource=feather&link=mailto:adhyaksh99@gmail.com)](mailto:adhyaksh99@gmail.com)
+
+---
+
+## Tech I use
+
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="nodejs" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="reactjs" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="ror" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
+<img align="left" alt="go" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+<img align="left" alt="python" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="expressjs" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="html" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="css" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="docker" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+<img align="left" alt="postgres" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+<img align="left" alt="mongodb" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+<img align="left" alt="c" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+<img align="left" alt="c++" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
+
+
+                                                                                
+
 <!--
 **Fiddler46/Fiddler46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
