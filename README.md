@@ -27,7 +27,9 @@ I'm a Software Engineer. I mostly design backend systems but do a bit of fronten
 <img align="left" alt="c" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 <img align="left" alt="c++" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 
+---
 
+[![Adhyaksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiddler46)](https://github.com/anuraghazra/github-readme-stats)
                                                                                 
 
 <!--
