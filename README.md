@@ -1,5 +1,5 @@
 # Adhyaksh Guhan
-<img src="vectorized_AG.svg" />
+<img src="/Assets/vectorized_AG.svg" />
 
 <!--
 **Fiddler46/Fiddler46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
