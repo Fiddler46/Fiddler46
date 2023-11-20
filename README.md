@@ -1,6 +1,7 @@
-# Adhyaksh Guhan
-<img src="/Assets/vectorized_AG.svg" />
-
+<h1>
+    <img src="/Assets/vectorized_AG.svg" alt="The letters 'A' and 'G' melded together in a wave form" />
+    Adhyaksh Guhan
+</h1>
 <!--
 **Fiddler46/Fiddler46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
