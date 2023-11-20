@@ -1,5 +1,5 @@
 <h1>
-    <img align="left" width="40px" style="padding-right:5px;" src="/Assets/vectorized_AG.svg" alt="The letters 'A' and 'G' melded together in a wave form" />
+    <img align="left" width="50px" style="padding-right:3px;" src="/Assets/vectorized_AG.svg" alt="The letters 'A' and 'G' melded together in a wave form" />
     Adhyaksh Guhan
 </h1>
 
