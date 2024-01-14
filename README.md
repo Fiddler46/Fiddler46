@@ -3,7 +3,7 @@
     Adhyaksh Guhan
 </h1>
 
-I'm a Software Engineer. I mostly design backend systems but do a bit of frontend too. My second brain lives in [Obsidian](https://obsidian.md/).
+I'm a Software Engineer. I mostly develop backend systems but do a bit of fullstack too. My second brain lives in [Obsidian](https://obsidian.md/).
 
 [![Linkedln](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSource=feather)](https://www.linkedin.com/in/adhyaksh-guhan-40090a171/)
 [![Gmail Badge](https://custom-icon-badges.demolab.com/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&logoSource=feather&link=mailto:adhyaksh99@gmail.com)](mailto:adhyaksh99@gmail.com)
